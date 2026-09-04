@@ -36,13 +36,6 @@ This repository contains implementations of common data structures and algorithm
 - Greedy Algorithms
 - Recursion
 
-## Getting Started
-
-```bash
-git clone <repository-url>
-cd dsa
-```
-
 ## Usage
 
 Browse the directory structure to find specific implementations. Each data structure and algorithm includes its own README with explanations and examples.
